@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorealculate",
+        "uuid": 2378116,
+        "checksum": "lnkbnn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
